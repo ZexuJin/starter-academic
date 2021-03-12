@@ -10,6 +10,13 @@ day_night: true
 font: ''
 font_size: L
 
+# Uncomment options below to use them.
+#cms
+branch = "main"
+publish_mode = "editorial_workflow"
+local_backend = true
+
+
 # SEO
 
 site_type: Person
